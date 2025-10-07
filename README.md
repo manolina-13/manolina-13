@@ -1,6 +1,6 @@
 ### Manolina Das | Computer Science Student
 
-Passionate about software development, with a strong focus on algorithmic problem-solving and cloud technologies. I thrive on building efficient, scalable solutions and am always eager to learn and apply new skills.
+Passionate about artificial intelligence, machine learning, and system-level projects, with a strong focus on algorithmic problem-solving and building intelligent, scalable solutions. I enjoy exploring new technologies and applying them to innovative, real-world applications.
 
 ---
 
